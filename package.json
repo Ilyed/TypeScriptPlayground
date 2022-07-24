@@ -1,0 +1,22 @@
+{
+  "name": "typescriptplayground",
+  "version": "1.0.0",
+  "description": "My playground to learn more of TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilyed/TypeScriptPlayground.git"
+  },
+  "author": "ilyed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilyed/TypeScriptPlayground/issues"
+  },
+  "homepage": "https://github.com/Ilyed/TypeScriptPlayground#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}

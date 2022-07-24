@@ -1,0 +1,5 @@
+/node_modules/
+/coverage/
+/.idea/modules.xml
+/.idea/TypeScriptPlayground.iml
+/.idea/vcs.xml
